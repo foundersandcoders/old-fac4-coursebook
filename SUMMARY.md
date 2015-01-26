@@ -13,6 +13,7 @@
    * [Roles](about/roles.md)
    * [The client](about/clients.md)
    * [Pairing](about/pairing.md)
+   * [20-minute rule](about/20mins.md)
 * [The roles](roles/README.md)
    * [Repo owner](roles/repos.md)
    * [Tester](roles/testing.md)
