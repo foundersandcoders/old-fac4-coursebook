@@ -25,4 +25,5 @@
    * [BDD](week1/bdd.md)
    * [The command line](week1/command-line.md)
    * [Git and GitHub](week1/git.md)
+   * [Acceptance criteria](week1/acceptancecriteria.md)
 
