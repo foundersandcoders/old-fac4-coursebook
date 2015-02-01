@@ -26,7 +26,7 @@
    * [The command line](week1/command-line.md)
    * [Git and GitHub](week1/git.md)
    * [Acceptance criteria](week1/acceptancecriteria.md)
-* [Week 2](week1/README.md)
+* [Week 2](week2/README.md)
    * [Assignment](week2/assignment.md)
    * [More on agile](week2/agile.md)
 
