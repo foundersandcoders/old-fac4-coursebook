@@ -32,7 +32,9 @@ Your code will be reviewed at 5pm on Thursday by an external assessor. You will 
 
 * So you've managed to make a cool client-side app using the various jQuery ajax methods. Time to go a bit wild and try creating your own ajax/ajaj methods using vanilla js.
 
-* You've created your own ajax methods using vanilla js and your feeling like a bit of a DON!! Time to get creative and add some sexy features to your client-side app.   
+* You've created your own ajax methods using vanilla js and your feeling like a bit of a DON!! Time to get creative and add some sexy features to your client-side app.
+
+* You must attempt to style your page using SASS rather than CSS - It is the job of the librarians to organise this. 
 
 ###Tools 
 
