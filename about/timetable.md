@@ -23,13 +23,17 @@ Tuesdays
 * *5pm* MVP pitch 
 
 Wednesdays
-* *5pm First sprint reviews*
+* *3pm Aim to get first sprint done 
+* *3pm Sprint retrospective and knowledge sharing 
+* *5pm* First sprint reviews*
 
 Thursdays
 * *5pm* MVP pitch
 
 Fridays
-* *3pm* Weekly retrospective: stop, start, continue
+* *2.30pm Aim to get first sprint done 
+* *2.30pm* Weekly retrospective: stop, start, continue
+* *3pm Sprint retrospective and knowledge sharing 
 * *5pm* Final sprint reviews
 
 
