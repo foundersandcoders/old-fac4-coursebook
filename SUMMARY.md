@@ -3,6 +3,7 @@
 * [About the course](about/README.md)
    * [The Company](about/company.md)
    * [Survival](about/money.md)
+   * [Schedule](about/schedule.md)
    * [Facilities](about/facilities.md)
    * [Timetable](about/timetable.md)
    * [Syllabus](about/syllabus.md)
@@ -29,4 +30,8 @@
 * [Week 2](week2/README.md)
    * [Assignment](week2/assignment.md)
    * [More on agile](week2/agile.md)
+* [DevOps](devops/README.md)
+* [Libraries](libraries/README.md)
+* [SCM (Git)](scm/README.md)
+* [Testing](testing/README.md)
 
