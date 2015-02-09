@@ -9,6 +9,7 @@
    * [Syllabus](about/syllabus.md)
    * [Staff](about/staff.md)
    * [Seminar](about/seminars.md)
+   * [Code reviews](about/codereviews.md)
    * [Sprint reviews](about/sprintreview.md)
    * [Groups](about/groups.md)
    * [Roles](about/roles.md)

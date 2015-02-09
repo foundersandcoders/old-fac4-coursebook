@@ -10,9 +10,9 @@ The provisional timetable is as follows.
 
 * *10am* Review of morning coding challenge
 * *10.15am* Morning scrums
-* *2pm* Seminar
+* *2pm* [Code reviews](codereviews.md)
 * *3pm* group catch ups
-* *5pm* Code reviews, sprint reviews and invited speakers
+* *5pm* Sprint reviews and invited speakers
 
 Mondays
 * *10am* New project for the week
