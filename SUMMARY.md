@@ -33,6 +33,7 @@
    * [More on agile](week2/agile.md)
 * [Week 3](week3/assignment.md)
    * [Assignment](week3/assignment.md)
+   * [Roles](week3/roles.md)
 * [DevOps](devops/README.md)
 * [Libraries](libraries/README.md)
 * [SCM (Git)](scm/README.md)
