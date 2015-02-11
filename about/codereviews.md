@@ -22,7 +22,6 @@ Suggested questions
 
 See [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) for more ideas.
 
-
 ### Functions
 
 1. When defining a new function are we using sensible names? Is it obvious at first glance what the function is for?
@@ -30,6 +29,8 @@ See [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) for mo
 1. What are the inputs for the function? And are these inputs reflected in the arguments?
 
 1. Do you expect the function to have a return value and if so what do you expect it to be?
+
+1. Are your functions short?
 
 1. Are your functions easy to test?
 
@@ -43,6 +44,9 @@ See [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) for mo
 
 1. As you work through the problem, are all your passing tests still passing? If not, why not?
 
+### Callbacks/Node.js
 
+1. Are you checking for errors in callbacks?
 
+1. Are you factoring out your nested code into separate functions? (i.e. trying to avoid callback hell)
 
