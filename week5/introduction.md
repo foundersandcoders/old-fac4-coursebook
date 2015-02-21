@@ -8,7 +8,7 @@ D3 is an extraordinary library written by Mike Bostock (see [some of his work fo
 
 Please read [chapters 2, 3 (only SVG part) and 5](http://chimera.labs.oreilly.com/books/1230000000345). 
 
-Optional - You can also work through Mike's tutorial, *[Let’s Make a Map](http://bost.ocks.org/mike/map/)*, starting with *Loading data*. This is just to get an idea of the potential of D3. If you like, you can use [this minimal example of a map of the world drawn using D3](http://foundersandcoders.org/resources/d3/minimal.html) as a starting point.
+Optional - You can also work through Mike's tutorial, *[Let’s Make a Map](http://bost.ocks.org/mike/map/)*, starting with *Loading data*. This is just to get an idea of the potential of D3.
 
 
 ## MONDAY
