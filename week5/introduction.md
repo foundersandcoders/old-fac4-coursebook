@@ -22,11 +22,11 @@ At the end of the day you will be given your challenge for the rest of the week 
 
 ## References
 
+
+* [Learn D3 on docdis](https://github.com/docdis/learn-d3)
 * [D3](http://d3js.org/)
 * [The D3 gallery for ideas](https://github.com/mbostock/d3/wiki/Gallery))
 * [More examples of data visualisation from Mike Bostock](http://www.nytimes.com/interactive/2012/12/30/multimedia/2012-the-year-in-graphics.html?_r=0)
-
-
 * [A minimal example of a map of the world drawn using D3](http://foundersandcoders.org/resources/d3/minimal.html)
 * [Let’s Make a Map](http://bost.ocks.org/mike/map/) by Mike Bostock, [uk.json](http://bost.ocks.org/mike/map/uk.json) file.
 

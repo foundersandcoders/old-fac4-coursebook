@@ -1,21 +1,20 @@
 # Timetable
 
-The space opens at around 9am and closes when the last person leaves, usually by around 9pm.
+*Updated: 15 February, 2015* 
 
-First thing in the morning we post a morning coding challenge, which we recommend you do if you manage to get in before 10am.
+The space opens at around 9.30am and closes when the last person leaves, usually by around 9pm.
 
 Classes start at 10am and end at 6pm Monday to Friday. 
 
 The provisional timetable is as follows.
 
-* *10am* Review of morning coding challenge
-* *10.15am* Morning scrums
-* *2pm* [Code reviews](codereviews.md)
-* *3pm* group catch ups
+* *10am* Morning coding challenge
+* *10.30am* Morning scrums
+* *2pm* Quick talks
 * *5pm* Sprint reviews and invited speakers
 
 Mondays
-* *10am* New project for the week
+* *10.30am* New project for the week
 * *5pm* Review of sprint goals
 
 Tuesdays
@@ -34,6 +33,7 @@ Fridays
 * *2.30pm Aim to get first sprint done 
 * *2.30pm* Weekly retrospective: stop, start, continue
 * *3pm Sprint retrospective and knowledge sharing 
+* *4.30pm* Employer talk
 * *5pm* Final sprint reviews
 
 
