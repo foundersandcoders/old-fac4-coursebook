@@ -1,0 +1,31 @@
+#Graph:
+ * Bar chart - vertical
+ * Height & colour - proportional to number of tweets
+ * 3 bar charts - one for each hashtag 
+    * One svg for bar chart
+ * 3 radio buttons to toggle between charts
+    * Button switches dataset and redraws chart
+ * Suggestions in svg text element below chart
+ * Hover over bar displays suggestion text
+ * Optional sort button to sort 
+ 
+#Questions:
+ * What should it look like: see above
+ * What data do we need:
+    * Suggestion text
+    * Retweet count
+    * Which hashtag
+ * How often are we getting updates?
+    * We are assuming we will get data and populate graph in the response callback - We will define our drawing function elsewhere then pass it as a callback to the response processing function.
+ * How are we going to store data?
+  * Each suggestion type will be stored in a separate dataset.
+ 
+#Stretch:
+ * Instead of radio buttons, use a carousel or tabs, etc
+ * Change how suggestion is displayed:
+    * have vertical/horizontal bars
+    * have a suggestion text element below the chart
+    * hovering over bar will highlight the suggestion text element and vice versa
+ * Timer bar on top
+ * Pie chart
+ * Force diagram
