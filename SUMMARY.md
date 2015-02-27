@@ -38,6 +38,7 @@
    * [Assignment](week4/assignment.md)
 * [Week 5](week5/introduction.md)
    * [Jigsaw classroom](week5/tuesday.md)
+* [Week 6](week6/README.md)
 * [DevOps](devops/README.md)
 * [Libraries](libraries/README.md)
 * [SCM (Git)](scm/README.md)
