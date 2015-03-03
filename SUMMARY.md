@@ -1,4 +1,5 @@
 # Summary
+
 * [Introduction](README.md)
 * [About the course](about/README.md)
    * [The Company](about/company.md)
@@ -44,8 +45,12 @@
    * [Visualisation](week5/d3.md)
 * [Week 6](week6/README.md)
    * [Tuesday](week6/tuesday.md)
+   * [React concepts](concepts.md)
    * [React UI components](week6/ui-group.md)
    * [React library](week6/librarians.md)
+   * [React testing setup](week6/testing/setup.md)
+   * [React testing](week6/testing/testreact.md)
+   * [React testing tutorials](week6/testing/tutorials.md)
 * [DevOps](devops/README.md)
 * [Libraries](libraries/README.md)
 * [SCM (Git)](scm/README.md)
