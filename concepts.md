@@ -41,7 +41,7 @@ Some factors that influence how reusable the code is:<br>
  * How Modular the code is
 
 ####composition:
-What its made up of
+Composition is simply when a class is composed of other classes; or to say it another way, an instance of an object has references to instances of other objects. 
 
 ####components:
 React components are very simple. You can think of them as simple functions that take in props and state and render HTML.
