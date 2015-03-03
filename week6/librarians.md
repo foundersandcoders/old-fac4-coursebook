@@ -72,7 +72,7 @@ var Hello = React.createClass({
 }); 
 React.render(
     <Hello data={dataset}/>, //here data becomes the attribute in the virtual DOM, to which dataset is assigned.
-    Download the chrome extension and have a look at the React DOM in your browser to see this!
+    //Download the chrome extension and have a look at the React DOM in your browser to see this!
     document.getElementById('mydiv')
 );
 ```
