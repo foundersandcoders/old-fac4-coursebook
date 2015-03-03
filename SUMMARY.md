@@ -44,6 +44,8 @@
    * [Visualisation](week5/d3.md)
 * [Week 6](week6/README.md)
    * [Tuesday](week6/tuesday.md)
+   * [React UI components](week6/ui-group.md)
+   * [React library](week6/librarians.md)
 * [DevOps](devops/README.md)
 * [Libraries](libraries/README.md)
 * [SCM (Git)](scm/README.md)
