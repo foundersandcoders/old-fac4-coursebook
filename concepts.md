@@ -33,19 +33,47 @@ Its changeable unlike strings, numbers which are immutable
 <p> Arrays, Objects are mutable
 
 ####reusability:
-you can use it again
+How suitable it is for reuse.<br>
+Some factors that influence how reusable the code is:<br>
+ * How dry the code is<br>
+ * How independant the code is<br>
+ * How extensible the code is<br>
+ * How Modular the code is
 
 ####composition:
 What its made up of
+
 ####components:
+React components are very simple. You can think of them as simple functions that take in props and state and render HTML.
 
 ####templates:
+A template is a generic  'structure' for a web page, data is then injected into it and functionality (javascript) added to make a final page.
+
+"Templates separate technologies not concerns" e.g. Templates separate html from javascript but don't separate up a page with concern for different component areas (aka functional areas)
+
+Think of Jekyll and the _layout directory.  We used liquid and YaML to do this templating.
+
+Javascript libraries that deal with setting up templates:
+Underscore, Mustache, Handlebars, etc
 
 ####coupling:
+Coupling is the act of joining two things together.  In software development, coupling refers to the degree to which one software component is dependant upon another.  
+
+ * tightly-coupled architecture - when each component and its associated components must be present in order for code to be executed or compiled.  
+ * loosely-coupled architecture - when components can remain autonomous and allow middleware software to manage communication between them.
+ * decoupled architecture - the components can operate completely separately and independently. 
 
 ####cohesion:
+refers to the degree to which the elements of a module belong together.     
+Thus, it is a measure of how strongly related each piece of functionality expressed by the source code of a software module is.  
+In Objects - all of the functions and attributes will have a high level of cohesion
 
 ####separation of concerns:
+separation of concerns (SoC) is a design principle for separating a computer program into distinct sections, such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as the details of the hardware the code is being optimized for, or as specific as the name of a class to instantiate
+
+Concerns are the different aspects of software functionality. For instance, the "business logic" of software is a concern, and the interface through which a person uses this logic is another.
+
+The separation of concerns is keeping the code for each of these concerns separate. Changing the interface should not require changing the business logic code, and vice versa.
 
 ####scope:
 Scope is where code lives. Scope in JS is created by functions. Code can only see and manipulate other code withing the same scope or higher scope. 
