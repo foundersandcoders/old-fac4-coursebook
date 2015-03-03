@@ -71,3 +71,6 @@ e.g. Width, Height, Type, Href, Src, Hidden
 Joining strings together to form a single string
 
 ####XSS injection:
+Cross-site scripting (XSS) is a type of computer security vulnerability typically found in Web applications. XSS enables attackers to inject client-side script into Web pages viewed by other users
+<p>
+A type of hacker attack where the hacker injects some malicious code in the form of a string which is run when the program executes some function related to the data. 
