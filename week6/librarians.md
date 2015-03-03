@@ -63,7 +63,7 @@ var dataset = {
         name4: "Jason"
 } 
 
-var Hello = React.createClass({
+var HelloYou = React.createClass({
     render: function(){
         return (
             <h1>hello, {this.props.data.name1}</h1> //data here is just a placeholder for our dataset object, we could call it anything. name1 is the property of dataset.
@@ -71,8 +71,34 @@ var Hello = React.createClass({
        }
 }); 
 React.render(
-    <Hello data={dataset}/>, //here data becomes the attribute in the virtual DOM, to which dataset is assigned.
+    <HelloYou data={dataset}/>, //here data becomes the attribute in the virtual DOM, to which dataset is assigned.
     //Download the chrome extension and have a look at the React DOM in your browser to see this!
     document.getElementById('mydiv')
+);
+```
+# Hello ...?
+
+```javascript
+var BoringComponent = React.createClass({
+  getInitialState : function() { //getInitialState is another method from the React library - this sets the value upon loading the page
+    return {
+      name : "chris"
+    };
+  },
+  handleClick : function() { //handleClick is also another method from the React library - it is the state after the click event has taken place
+    this.setState({
+      name : "bob"
+    });
+  },
+  render : function() {
+    return <div onClick={this.handleClick}> //onclick is a HTML event handler
+      hello {this.state.name} //here chris will be replaced by bob
+    </div>;
+  }
+});
+
+React.render( 
+  <BoringComponent />,
+  document.getElementById('mydiv')
 );
 ```
