@@ -58,7 +58,9 @@ Now let's use props to get data from an object outside of our function:
 ```javascript
 var dataset = {
         name1: "Dec",
-        name2: "Dave"
+        name2: "Dave",
+        name3: "Anita,
+        name4: "Jason"
 } 
 
 var Hello = React.createClass({
