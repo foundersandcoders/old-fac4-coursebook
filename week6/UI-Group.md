@@ -1,8 +1,8 @@
 ##UI GROUP
 
-Our main focus for today was understanding the basic User Interface, composing various components and producing the component hierarchy:
+Our main focus for today was understanding the basic User Interface, composing various components and producing the component hierarchy.
 
-Check out our screencast where we look at Apple Notes and describe where each component lives and what sub-component(s) they contain.
+Check out our screencast where we look at Apple Notes and describe where each component lives and what sub-component(s) they contain:
 
 https://www.youtube.com/watch?v=iZxAMXLUjX0&feature=youtu.be
 
