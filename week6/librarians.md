@@ -59,7 +59,7 @@ Now let's use props to get data from an object outside of our function:
 var dataset = {
         name1: "Dec",
         name2: "Dave",
-        name3: "Anita,
+        name3: "Anita",
         name4: "Jason"
 } 
 
