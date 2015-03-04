@@ -19,13 +19,13 @@ We also had a go at making a very basic Note-Taking App. It's not complete, but 
 <html>
 <head>
     <title>Hello world</title>
-    <script src="http://fb.me/react-0.12.1.js"></script>
-    <script src="http://fb.me/JSXTransformer-0.12.1.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src='http://fb.me/react-0.12.1.js'></script>
+    <script src='http://fb.me/JSXTransformer-0.12.1.js'></script>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'>
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
+	<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js'></script>
 
-<style type="text/css">
+<style type='text/css'>
 .NoteApp{
 	margin: 30px auto;
 }
@@ -50,14 +50,14 @@ We also had a go at making a very basic Note-Taking App. It's not complete, but 
 </head>
 <body>
 
-<script type="text/jsx">
+<script type='text/jsx'>
 
 
 
 var NoteApp = React.createClass({
 	render: function(){
 		return ( 
-			<div className="NoteApp col-md-6 col-lg-6 col-sm-8 col-xs-10">
+			<div className='NoteApp col-md-6 col-lg-6 col-sm-8 col-xs-10'>
 				<SearchableTable notes={this.props.notes}/>
 				<TextEditor notes={this.props.notes}/>
 
@@ -69,8 +69,8 @@ var NoteApp = React.createClass({
 var TextEditor = React.createClass({
 	render: function(){
 		return(
-			<div className="TextEditor col-md-8 col-lg-8 col-sm-8 col-xs-12">
-			<textarea className="textarea"/>
+			<div className='TextEditor col-md-8 col-lg-8 col-sm-8 col-xs-12'>
+			<textarea className='textarea'/>
 			</div>
 			)
 	}
@@ -79,7 +79,7 @@ var TextEditor = React.createClass({
 var SearchableTable = React.createClass({
 	render: function(){
 		return (
-			<div className="SearchableTable col-md-4 col-lg-4 col-sm-4 col-xs-4">
+			<div className='SearchableTable col-md-4 col-lg-4 col-sm-4 col-xs-4'>
 				<SearchField/>
 				<NoteList notes={this.props.notes}/>
 			</div>
@@ -90,7 +90,7 @@ var SearchableTable = React.createClass({
 var SearchField = React.createClass({
 	render: function(){
 		return(
-			<input type="text" className="SearchField" />
+			<input type='text' className='SearchField' />
 			)
 	}
 });
@@ -140,6 +140,7 @@ React.render(<NoteApp notes={NOTES}/>, document.body);
 </body>
 
 </html>
+
 ```
 
 You might want to copy and paste this code into your own text editor, save it and drag and drop the file into your browser, just so you can get a taste of what it looks like!
