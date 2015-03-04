@@ -45,6 +45,7 @@
    * [Visualisation](week5/d3.md)
 * [Week 6](week6/README.md)
    * [Tuesday](week6/tuesday.md)
+   * [Wednesday](week6/wednesday.md)
    * [React concepts](concepts.md)
    * [React UI components](week6/ui-group.md)
    * [React library](week6/librarians.md)
