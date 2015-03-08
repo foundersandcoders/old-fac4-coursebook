@@ -9,10 +9,10 @@ The role groups will be expected to create a git repository with the following e
 ###Testers
 Starting with the user stories, write a full set of acceptance tests using *mocha* and *shot*.
 
-###API designers
+###API builders
 Research RESTful routes and design a complete RESTful CRUD API for the application in the *handlers.js* file.
  
-###Database analysts
+###Database administrators
 Decide on how to store and retrieve data, and create working database connexions in the *model.js* file.
 
 ###UI designers
