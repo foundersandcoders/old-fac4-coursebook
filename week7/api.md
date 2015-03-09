@@ -6,7 +6,7 @@
 
 
 
-![REST](http://yuml.me/ce0fe2f0 "REST")
+   ![REST](http://yuml.me/ce0fe2f0 "REST")
 * It is a software architecture style consisting of guidelines and best practices for creating scalable web services
 * The use of REST is often preferred over the more heavyweight SOAP (Simple Object Access Protocol) style because REST does not leverage as much bandwidth, which makes it a better fit for use over the Internet
 
