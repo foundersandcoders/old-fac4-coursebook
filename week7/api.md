@@ -2,7 +2,7 @@
 
 ## What is REST?
 
-* REST stands for _RE_presentational _S_tate _T_ransfer. This refers to transferring "representations". You are using a "representation" of a resource to transfer resource state which lives on the server into application state on the client. See image below:
+* REST stands for **RE**presentational **S**tate **T**ransfer. This refers to transferring "representations". You are using a "representation" of a resource to transfer resource state which lives on the server into application state on the client. See image below:
 
 
 
@@ -14,7 +14,7 @@
 
 ## What is CRUD?
 
-* CRUD stands for _C_reate, _R_ead, _U_pdate and _D_elete
+* CRUD stands for **C**reate, **R**ead, **U**pdate and **D**elete
 * Sometimes known as SCRUD - the S being Search
 * For each letter in the CRUD acronym the HTTP Methods are as follows:
   * Create - POST (201 (Created), 'Location' header with link to /customers/{id} containing new ID.)
