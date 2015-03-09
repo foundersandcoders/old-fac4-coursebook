@@ -2,7 +2,10 @@
 
 ## What is REST?
 
-* REST stands for __RE__presentational __S__tate __T__ransfer. This refers to transferring "representations". You are using a "representation" of a resource to transfer resource state which lives on the server into application state on the client. See image below:
+* REST stands for _RE_presentational _S_tate _T_ransfer. This refers to transferring "representations". You are using a "representation" of a resource to transfer resource state which lives on the server into application state on the client. See image below:
+
+
+
 ![REST](http://yuml.me/ce0fe2f0 "REST")
 * It is a software architecture style consisting of guidelines and best practices for creating scalable web services
 * The use of REST is often preferred over the more heavyweight SOAP (Simple Object Access Protocol) style because REST does not leverage as much bandwidth, which makes it a better fit for use over the Internet
@@ -11,7 +14,7 @@
 
 ## What is CRUD?
 
-* CRUD stands for __C__reate, __R__ead, __U__pdate and __D__elete
+* CRUD stands for _C_reate, _R_ead, _U_pdate and _D_elete
 * Sometimes known as SCRUD - the S being Search
 * For each letter in the CRUD acronym the HTTP Methods are as follows:
   * Create - POST (201 (Created), 'Location' header with link to /customers/{id} containing new ID.)
@@ -23,13 +26,14 @@
 ## What is Routing?
 
 * "Routing" means, we want to handle requests to different URLs differently
+* Making different HTTP requests point at different parts of our code is called "routing"
 
 
  ------
 
 ## The server.js and handler.js files - a basic skeleton for the RESTful CRUD API
 
-### server.js
+#### server.js
 
 ```
 var http = require("http");
@@ -67,7 +71,7 @@ console.log('Server running on port', port);
 
 ```
 
-### handler.js
+#### handler.js
 
 ```
 
