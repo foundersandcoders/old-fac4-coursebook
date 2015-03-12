@@ -54,6 +54,7 @@
    * [React testing tutorials](week6/testing/tutorials.md)
 * [Week 7](week7/README.md)
    * [Assignment](week7/assignment.md)
+   * [Stretch goal](week7/stretch.md)
    * [Code reviews](week7/reviews.md)
    * [Roles](week7/roles.md)
    * [Tests](week7/tests.md)
